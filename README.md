@@ -32,6 +32,7 @@ Cloning the project to your computer. If you have ssh access.
 ```
 git glone git@gitlab.com:i-sepp/bcs-koolitus.git
 http://twig.sensiolabs.org/
+http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html
 ```
 
 Or download it manually from the gitlab [page](https://gitlab.com/i-sepp/bcs-koolitus).
