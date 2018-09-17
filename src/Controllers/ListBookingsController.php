@@ -1,5 +1,6 @@
 <?php
 
+
 namespace BookingApp\Controllers;
 
 use Doctrine\DBAL\Connection;
