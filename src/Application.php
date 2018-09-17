@@ -125,7 +125,7 @@ class Application extends SilexApplication
 
             return $this['twig']->render('form.html.twig', [
                 'form' => $form->createView()
-            ]);;
+            ]);
         });
     }
 }
